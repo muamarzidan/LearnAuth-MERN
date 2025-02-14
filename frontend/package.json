@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "description": "this website is learning about auth like login, registet, forgor password, reset password, email verification, logout, session, cookie and multi role",
   "private": true,
   "version": "0.0.0",
   "type": "module",

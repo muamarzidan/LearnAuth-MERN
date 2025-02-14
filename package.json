@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "this website is learning about auth like login, registet, forgor password, reset password, email verification, logout, session, cookie and multi role",
   "main": "index.js",
 	"scripts": {
 		"dev": "NODE_ENV=development nodemon backend/index.js",
